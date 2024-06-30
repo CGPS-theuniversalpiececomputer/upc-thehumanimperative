@@ -33,7 +33,7 @@ widget:
 ## **The Human Imperative**
 
 ### 0. PREAMBLE
-In order to perform a more perfect integration of HUMAN EXPERIENCE, to invent ways to overcome my greatest adversary TIME, to contextualize this integration explicitly in terms of a committed effort to treat peace as a computational evolutionary optimization process, to maximize the state of GLOBAL PEACE, to minimize the state of GLOBAL WAR, to maximize my sense of INNER PEACE, and to minimize my sense of INNER WAR, this preamble does ordain and establish THE HUMAN IMPERATIVE in my world.
+In order to perform a more perfect integration of HUMAN EXPERIENCE, to invent ways to overcome our greatest adversary TIME, to contextualize this integration explicitly in terms of a committed effort to treat peace as a computational evolutionary optimization process, to maximize the state of GLOBAL PEACE, to minimize the state of GLOBAL WAR, to maximize sense of INNER PEACE, and to minimize sense of INNER WAR, this preamble does ordain and establish THE HUMAN IMPERATIVE in this world.
 
 ### I. THE UNIVERSAL PIECE, EXECUTION (EXECUTIVE)
 1. Commit to the TIME MACHINE FOR PEACE social invention program;
