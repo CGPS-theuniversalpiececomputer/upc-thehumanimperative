@@ -2,8 +2,12 @@
 title: THE HUMAN IMPERATIVE
 draft: false
 avatar: images/THIicon.png
-bio: This page contains The Human Imperative in initial, general (universal) form. This is meant to be adopted by persons and people wishing to initialize and operate their own individual or local world piece computers.
+bio: This page contains The Human Imperative (THI) in initial, general (universal) form. This is meant to be adopted by persons and people wishing to initialize and operate their own individual or local world piece computers.
 
+social:
+  - icon: github
+    iconPack: fab
+    url: https://github.com/CGPS-theuniversalpiececomputer/thehumanimperative-up-computer
 
 weight: 1
 widget:
