@@ -8,4 +8,6 @@ main:
   - name: CORE PEACE BIAS
     url: 'https://corepeacebias.up.computer'
     weight: 3
-
+  - name: TIME MACHINE FOR PEACE
+    url: 'https://timemachineforpeace.up.computer'
+    weight: 4
