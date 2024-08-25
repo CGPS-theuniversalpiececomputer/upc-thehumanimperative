@@ -34,6 +34,20 @@ widget:
     attachment: 
 ---
 
+## **Overview**
+
+The Human Imperative is a guiding framework designed to help us achieve global peace through a social invention program called the time machine for peace. This program aims to unify Human knowledge and efforts to create a computational system that can systematically process and optimize our collective actions towards peace.
+
+At its core, The Human Imperative serves as a constitution to guide operation and invention of what we call a "world piece computer." A world piece computer is essentially a system of technology and Human network that individuals or groups can create to manage and optimize their own "world pieces". These world pieces can be anything significant to the individual or group, such as physical objects, abstract concepts, or social structures.
+
+The ultimate goal is to connect world piece computers into a larger network, forming what we call "the universal piece computer". The universal piece computer resulting, acts as a giant supercomputer, utilizing the computational power of all connected world piece computers to facilitate better communication, cooperation, and problem-solving on a global scale.
+
+To make this work, we need to adopt a common language known as the lingua franca, which allows all these systems to interface effectively. This language includes not just words and grammar but also in time, protocols, algorithms, and routines for connecting different world piece computers.
+
+By adhering to The Human Imperative and operating our world piece computers according to its rules, we can work together to build a more peaceful and harmonious world. This involves not only optimizing our own world pieces but also collaborating with others to achieve a universal state of peace via process.
+
+In summary, The Human Imperative is a living document that guides us in creating and connecting world piece computers to form the universal piece computer. This system aims to accelerate the advent of global peace by unifying Human knowledge and efforts through a common language and shared goals.
+
 ## **The Human Imperative**
 
 ### 0. PREAMBLE
